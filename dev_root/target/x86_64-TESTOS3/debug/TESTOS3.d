@@ -1,1 +1,1 @@
-/mnt/c/Users/tavi2/Desktop/TESTOS3/dev_root/target/x86_64-TESTOS3/debug/TESTOS3: /mnt/c/Users/tavi2/Desktop/TESTOS3/dev_root/src/main.rs /mnt/c/Users/tavi2/Desktop/TESTOS3/dev_root/src/vga_buffer.rs
+/mnt/c/Users/tavi2/Desktop/TESTOS3/dev_root/target/x86_64-TESTOS3/debug/TESTOS3: /mnt/c/Users/tavi2/Desktop/TESTOS3/dev_root/src/keyboard.rs /mnt/c/Users/tavi2/Desktop/TESTOS3/dev_root/src/main.rs /mnt/c/Users/tavi2/Desktop/TESTOS3/dev_root/src/vga_buffer.rs
