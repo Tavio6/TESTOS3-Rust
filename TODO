@@ -1,0 +1,12 @@
+# WSL SETUP COMMANDS:
+sudo apt update
+sudo apt install qemu-system-x86 build-essential
+
+rustup override set nightly
+rustup component add rust-src llvm-tools-preview
+
+cargo install bootimage
+
+# BUILD AND RUN COMMANDS:
+cargo bootimage
+qemu-system-x86_64 -drive format=raw,file=target/x86_64-TESTOS3/debug/bootimage-TESTOS3.bin
