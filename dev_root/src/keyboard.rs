@@ -111,7 +111,7 @@ fn handle_command() {
         }
         "about" => {
             writer.color_code = ColorCode::new(Color::Yellow, Color::Black);
-            writer.write_string("TESTOS3 - A simple OS written in Rust\n");
+            writer.write_string("TESTOS3 - A simple OS written in Rust by Tavi_o6 :D\n");
         }
         cmd if cmd.starts_with("echo ") => {
             writer.color_code = ColorCode::new(Color::LightGreen, Color::Black);
